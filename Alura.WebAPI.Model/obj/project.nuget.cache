@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oabnRYemT0x9rRYSrtw5OJkGTmksKXWp4+46mVvsOA/IokuxIV4fH/cY5SOoMro9qN4UoqyFOfRL8TUspp/DCw==",
+  "success": true,
+  "projectFilePath": "C:\\Cursos\\AluraFormacaoDotNet\\AluraFormacaoDotnet_1_ApiRest\\Projeto-Final- APIRestParte3-Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rbonotto\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.0\\microsoft.aspnetcore.http.features.3.1.0.nupkg.sha512",
+    "C:\\Users\\rbonotto\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "C:\\Users\\rbonotto\\.nuget\\packages\\system.io.pipelines\\4.7.0\\system.io.pipelines.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Cursos\AluraFormacaoDotNet\AluraFormacaoDotnet_1_ApiRest\Projeto-Final- APIRestParte3-Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp3.1\Alura.WebAPI.Model.deps.json
+C:\Cursos\AluraFormacaoDotNet\AluraFormacaoDotnet_1_ApiRest\Projeto-Final- APIRestParte3-Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp3.1\Alura.WebAPI.Model.dll
+C:\Cursos\AluraFormacaoDotNet\AluraFormacaoDotnet_1_ApiRest\Projeto-Final- APIRestParte3-Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp3.1\Alura.WebAPI.Model.pdb
+C:\Cursos\AluraFormacaoDotNet\AluraFormacaoDotnet_1_ApiRest\Projeto-Final- APIRestParte3-Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp3.1\Alura.WebAPI.Model.csprojAssemblyReference.cache
+C:\Cursos\AluraFormacaoDotNet\AluraFormacaoDotnet_1_ApiRest\Projeto-Final- APIRestParte3-Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp3.1\Alura.WebAPI.Model.AssemblyInfoInputs.cache
+C:\Cursos\AluraFormacaoDotNet\AluraFormacaoDotnet_1_ApiRest\Projeto-Final- APIRestParte3-Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp3.1\Alura.WebAPI.Model.AssemblyInfo.cs
+C:\Cursos\AluraFormacaoDotNet\AluraFormacaoDotnet_1_ApiRest\Projeto-Final- APIRestParte3-Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp3.1\Alura.WebAPI.Model.csproj.CoreCompileInputs.cache
+C:\Cursos\AluraFormacaoDotNet\AluraFormacaoDotnet_1_ApiRest\Projeto-Final- APIRestParte3-Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp3.1\Alura.WebAPI.Model.dll
+C:\Cursos\AluraFormacaoDotNet\AluraFormacaoDotnet_1_ApiRest\Projeto-Final- APIRestParte3-Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp3.1\Alura.WebAPI.Model.pdb
