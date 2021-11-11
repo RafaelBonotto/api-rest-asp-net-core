@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "CDaIj46sMyD2vxSU1KZwr3gdvHSXJZQ6/X3fLl8kspAcjyN4I6ts6TvTjfmMmSYdk2K/8EFDqcfW/gdkMWwwMQ==",
+  "success": false,
+  "projectFilePath": "C:\\Cursos\\AluraFormacaoDotNet\\AluraFormacaoDotnet_1_ApiRest\\Projeto-Final- APIRestParte3-Alura.WebAPI\\Alura.ListaLeitura.GeradorRandomicoLivros\\Alura.ListaLeitura.GeradorRandomicoLivros.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "O projeto Alura.WebAPI.Model não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O projeto Alura.WebAPI.Model dá suporte a: netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
+      "libraryId": "Alura.WebAPI.Model",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "O projeto Alura.WebAPI.DAL.Livros não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O projeto Alura.WebAPI.DAL.Livros dá suporte a: netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
+      "libraryId": "Alura.WebAPI.DAL.Livros",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    }
+  ]
+}
